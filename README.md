@@ -1,5 +1,5 @@
 # thenerdcave.us
-This is the official site for Nerd Cave Development.
+This former official site of Nerd Cave Development (now defunct).
 
 ## Author
 **thenerdcave.us** © 2018 [Nerd Cave Development](https://thenerdcave.us).  
